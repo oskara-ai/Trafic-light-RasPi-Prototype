@@ -1,0 +1,1 @@
+{"name":"tes","Combinations":[{"Timer":1000,"Led":"green","Command":1},{"Timer":2000,"Led":"yellow","Command":1},{"Timer":2000,"Led":"red","Command":1},{"Timer":2000,"Led":"yellow","Command":1},{"Timer":2000,"Led":"green","Command":1},{"Timer":2000,"Led":"yellow","Command":1}]}

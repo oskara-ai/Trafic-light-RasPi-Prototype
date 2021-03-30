@@ -1,0 +1,4 @@
+/home/pi/Projects/TCPserver/TCPserver/obj/x86/Release/.NETFramework,Version=v4.7.AssemblyAttribute.cs
+/home/pi/Projects/TCPserver/TCPserver/bin/Release/TCPserver.exe
+/home/pi/Projects/TCPserver/TCPserver/obj/x86/Release/TCPserver.exe
+/home/pi/Projects/TCPserver/TCPserver/bin/Release/Newtonsoft.Json.dll
